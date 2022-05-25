@@ -1,6 +1,8 @@
 # ngx-Qtheme
 Theming library for Angular application. Made to work with Angular `13.X.X`.
 
+[https://www.npmjs.com/package/ngx-qtheme](https://www.npmjs.com/package/ngx-qtheme)
+
 Probably with future `14` will run without any problems at all.
 
 ### Example project with ngx-qtheme usage
